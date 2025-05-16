@@ -2,7 +2,7 @@ name: api_ci
 
 on:
   push:
-    branches: [ main, tests ]
+    branches: [ main, hacene ]
   pull_request:
     branches: [ main ]
 
